@@ -1,7 +1,7 @@
 # <a href ="ithamarluis.github.io">ithamarluis.github.io</a>
  Repositórios publicos
 
- Curso de html5 e css3
+ Curso de html 5 e css 3
 
 
 <p>Desafios Feitos</p>
