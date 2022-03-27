@@ -6,6 +6,6 @@
 
 <p>Desafios Feitos</p>
 
- * <a href="https://ithamarluis.github.io/html-css/desafios/d010-meu/index.html"> Meu 10° desafio </a>
+ * <a href="https://ithamarluis.github.io/html-css/desafios/d010-meu/index.html" target="_blank"> Meu 10° desafio </a>
 
 
